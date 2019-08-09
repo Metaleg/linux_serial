@@ -1,0 +1,3 @@
+/home/metalleg/Documents/Documents/CLionProjects/linux_serial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/metalleg/Documents/Documents/CLionProjects/linux_serial/cmake-build-debug/CMakeFiles/linux_serial.dir
+/home/metalleg/Documents/Documents/CLionProjects/linux_serial/cmake-build-debug/CMakeFiles/edit_cache.dir

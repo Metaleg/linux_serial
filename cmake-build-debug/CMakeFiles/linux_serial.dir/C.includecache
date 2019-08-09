@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/metalleg/Documents/Documents/CLionProjects/linux_serial/main.c
+sys/types.h
+-
+fcntl.h
+-
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+termios.h
+-
+time.h
+-
+
